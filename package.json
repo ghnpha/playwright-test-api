@@ -5,7 +5,7 @@
   "license": "MIT",
   "devDependencies": {
     "@playwright/test": "^1.31.2",
-    "allure-playwright": "^2.1.0"
+    "allure-playwright": "^2.15.1"
   },
   "scripts": {
     "test": "playwright test",

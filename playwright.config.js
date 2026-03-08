@@ -38,7 +38,7 @@ const config = {
         ['./reporter/CustomReporter.js'],
         ['html', {
         open: 'never',
-        port: 9999
+        port: 8386
     }]
     ],
     /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
