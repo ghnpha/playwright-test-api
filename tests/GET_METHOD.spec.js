@@ -20,3 +20,4 @@ test('should be able to send a GET method request', async ({request}) => {
     expect(body).toBeTruthy()
 
 });
+
